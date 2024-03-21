@@ -203,7 +203,7 @@ ul li a:hover{
     text-align: center;
 }
  .footer ul li a{
-     color: white;
+     color: black;
      border-bottom: 3px solid transparent;
      transition: .4s ease;
 }
@@ -221,7 +221,7 @@ ul li a:hover{
     margin-top: 15px;
     text-align: center;
     font-size: 12px;
-    color: white;
+    color: black;
 }    
     
 
