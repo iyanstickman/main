@@ -204,7 +204,7 @@ ul li a:hover{
 }
  .footer ul li a{
      color: black;
-     border-bottom: 3px solid transparent;
+     border-bottom: 3px;
      transition: .4s ease;
 }
 
