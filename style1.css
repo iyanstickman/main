@@ -192,4 +192,37 @@ ul li a:hover{
     border-radius: .8rem;
     margin: 1rem 0;
     resize: none;
+}
+
+.footer ul{
+    margin-top: 0;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 0;
+    text-align: center;
+}
+ .footer ul li a{
+     color: white;
+     border-bottom: 3px solid transparent;
+     transition: .4s ease;
+}
+
+.footer ul li a:hover{
+    border-bottom: 3px solid black;
+}
+
+.footer ul li{
+    display: inline-block;
+    padding: 0 15px;
+}
+
+.footer .copyright{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 12px;
+    color: white;
 }    
+    
+
+
